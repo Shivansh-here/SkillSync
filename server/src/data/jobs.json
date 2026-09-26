@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Frontend Engineer",
+    "descriptions": [
+      "We are looking for a React developer with strong skills in TypeScript, Tailwind CSS, and state management (Redux/Zustand). Experience with Next.js is a plus.",
+      "Seeking a Frontend Engineer to build responsive UIs. Must know JavaScript, React, HTML5, CSS3, and have an eye for design. Understanding of Webpack and performance optimization.",
+      "Join our UI team! Requirements: React.js, TypeScript, REST APIs, Git, and basic knowledge of CI/CD pipelines and testing (Jest)."
+    ]
+  },
+  {
+    "title": "Backend Engineer",
+    "descriptions": [
+      "Looking for a Backend Developer skilled in Node.js, Express, and MongoDB. Must understand RESTful API design, JWT authentication, and basic Docker.",
+      "Backend Engineer needed. Experience with Python, Django, PostgreSQL, and AWS (EC2, S3). Strong understanding of system design and caching (Redis).",
+      "We need a backend specialist with Node.js and TypeScript. Microservices architecture, SQL/NoSQL databases, and Kafka experience preferred."
+    ]
+  },
+  {
+    "title": "Full-Stack Engineer",
+    "descriptions": [
+      "Seeking a Full-Stack Engineer (MERN). React, Node.js, Express, MongoDB. Must be comfortable with both frontend UIs and backend deployment on AWS/Vercel.",
+      "Full stack role: Next.js on the frontend, Python/FastAPI on the backend. Postgres database. Familiarity with Docker and GitHub Actions required.",
+      "Join as a Full-Stack developer. You will use TypeScript across the stack (React + Node). Need experience with GraphQL, PostgreSQL, and cloud infrastructure."
+    ]
+  }
+]
